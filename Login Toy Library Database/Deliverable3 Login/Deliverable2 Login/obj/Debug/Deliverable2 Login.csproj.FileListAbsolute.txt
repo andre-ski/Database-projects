@@ -1,0 +1,55 @@
+c:\users\polly the pc\documents\visual studio 2017\Projects\Deliverable2 Login\Deliverable2 Login\bin\Debug\Deliverable2 Login.exe.config
+c:\users\polly the pc\documents\visual studio 2017\Projects\Deliverable2 Login\Deliverable2 Login\bin\Debug\Deliverable2 Login.exe
+c:\users\polly the pc\documents\visual studio 2017\Projects\Deliverable2 Login\Deliverable2 Login\bin\Debug\Deliverable2 Login.pdb
+c:\users\polly the pc\documents\visual studio 2017\Projects\Deliverable2 Login\Deliverable2 Login\obj\Debug\Deliverable2 Login.csprojResolveAssemblyReference.cache
+c:\users\polly the pc\documents\visual studio 2017\Projects\Deliverable2 Login\Deliverable2 Login\obj\Debug\Deliverable2_Login.Form1.resources
+c:\users\polly the pc\documents\visual studio 2017\Projects\Deliverable2 Login\Deliverable2 Login\obj\Debug\Deliverable2_Login.Properties.Resources.resources
+c:\users\polly the pc\documents\visual studio 2017\Projects\Deliverable2 Login\Deliverable2 Login\obj\Debug\Deliverable2 Login.csproj.GenerateResource.Cache
+c:\users\polly the pc\documents\visual studio 2017\Projects\Deliverable2 Login\Deliverable2 Login\obj\Debug\Deliverable2 Login.exe
+c:\users\polly the pc\documents\visual studio 2017\Projects\Deliverable2 Login\Deliverable2 Login\obj\Debug\Deliverable2 Login.pdb
+c:\users\polly the pc\documents\visual studio 2017\Projects\Deliverable2 Login\Deliverable2 Login\obj\Debug\Deliverable2_Login.ChildInfo.resources
+G:\Compx223\D2\Deliverable2 Login\Deliverable2 Login\bin\Debug\Deliverable2 Login.exe.config
+G:\Compx223\D2\Deliverable2 Login\Deliverable2 Login\bin\Debug\Deliverable2 Login.exe
+G:\Compx223\D2\Deliverable2 Login\Deliverable2 Login\bin\Debug\Deliverable2 Login.pdb
+G:\Compx223\D2\Deliverable2 Login\Deliverable2 Login\obj\Debug\Deliverable2 Login.csprojResolveAssemblyReference.cache
+G:\Compx223\D2\Deliverable2 Login\Deliverable2 Login\obj\Debug\Deliverable2_Login.ChildInfo.resources
+G:\Compx223\D2\Deliverable2 Login\Deliverable2 Login\obj\Debug\Deliverable2_Login.Form1.resources
+G:\Compx223\D2\Deliverable2 Login\Deliverable2 Login\obj\Debug\Deliverable2_Login.Properties.Resources.resources
+G:\Compx223\D2\Deliverable2 Login\Deliverable2 Login\obj\Debug\Deliverable2 Login.csproj.GenerateResource.Cache
+G:\Compx223\D2\Deliverable2 Login\Deliverable2 Login\obj\Debug\Deliverable2 Login.exe
+G:\Compx223\D2\Deliverable2 Login\Deliverable2 Login\obj\Debug\Deliverable2 Login.pdb
+E:\Compx223\D2\Deliverable2 Login\Deliverable2 Login\bin\Debug\Deliverable2 Login.exe.config
+E:\Compx223\D2\Deliverable2 Login\Deliverable2 Login\bin\Debug\Deliverable2 Login.exe
+E:\Compx223\D2\Deliverable2 Login\Deliverable2 Login\bin\Debug\Deliverable2 Login.pdb
+E:\Compx223\D2\Deliverable2 Login\Deliverable2 Login\obj\Debug\Deliverable2 Login.csprojResolveAssemblyReference.cache
+E:\Compx223\D2\Deliverable2 Login\Deliverable2 Login\obj\Debug\Deliverable2_Login.ChildInfo.resources
+E:\Compx223\D2\Deliverable2 Login\Deliverable2 Login\obj\Debug\Deliverable2_Login.Form1.resources
+E:\Compx223\D2\Deliverable2 Login\Deliverable2 Login\obj\Debug\Deliverable2_Login.Properties.Resources.resources
+E:\Compx223\D2\Deliverable2 Login\Deliverable2 Login\obj\Debug\Deliverable2 Login.csproj.GenerateResource.cache
+E:\Compx223\D2\Deliverable2 Login\Deliverable2 Login\obj\Debug\Deliverable2 Login.csproj.CoreCompileInputs.cache
+E:\Compx223\D2\Deliverable2 Login\Deliverable2 Login\obj\Debug\Deliverable2 Login.exe
+E:\Compx223\D2\Deliverable2 Login\Deliverable2 Login\obj\Debug\Deliverable2 Login.pdb
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Desktop\D2\Deliverable2 Login\Deliverable2 Login\bin\Debug\Deliverable2 Login.exe.config
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Desktop\D2\Deliverable2 Login\Deliverable2 Login\bin\Debug\Deliverable2 Login.exe
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Desktop\D2\Deliverable2 Login\Deliverable2 Login\bin\Debug\Deliverable2 Login.pdb
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Desktop\D2\Deliverable2 Login\Deliverable2 Login\obj\Debug\Deliverable2 Login.csprojResolveAssemblyReference.cache
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Desktop\D2\Deliverable2 Login\Deliverable2 Login\obj\Debug\Deliverable2_Login.ChildInfo.resources
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Desktop\D2\Deliverable2 Login\Deliverable2 Login\obj\Debug\Deliverable2_Login.Properties.Resources.resources
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Desktop\D2\Deliverable2 Login\Deliverable2 Login\obj\Debug\Deliverable2 Login.csproj.GenerateResource.Cache
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Desktop\D2\Deliverable2 Login\Deliverable2 Login\obj\Debug\Deliverable2 Login.csproj.CoreCompileInputs.cache
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Desktop\D2\Deliverable2 Login\Deliverable2 Login\obj\Debug\Deliverable2 Login.exe
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Desktop\D2\Deliverable2 Login\Deliverable2 Login\obj\Debug\Deliverable2 Login.pdb
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Desktop\D2\Deliverable2 Login\Deliverable2 Login\obj\Debug\Deliverable2_Login.LoginPage.resources
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Desktop\D2\Deliverable2 Login\Deliverable2 Login\obj\Debug\Deliverable2_Login.ToyCategory.resources
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Desktop\D3\Deliverable3 Login\Deliverable2 Login\bin\Debug\Deliverable2 Login.exe.config
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Desktop\D3\Deliverable3 Login\Deliverable2 Login\bin\Debug\Deliverable2 Login.exe
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Desktop\D3\Deliverable3 Login\Deliverable2 Login\bin\Debug\Deliverable2 Login.pdb
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Desktop\D3\Deliverable3 Login\Deliverable2 Login\obj\Debug\Deliverable2 Login.csprojResolveAssemblyReference.cache
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Desktop\D3\Deliverable3 Login\Deliverable2 Login\obj\Debug\Deliverable2_Login.ChildInfo.resources
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Desktop\D3\Deliverable3 Login\Deliverable2 Login\obj\Debug\Deliverable2_Login.LoginPage.resources
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Desktop\D3\Deliverable3 Login\Deliverable2 Login\obj\Debug\Deliverable2_Login.Properties.Resources.resources
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Desktop\D3\Deliverable3 Login\Deliverable2 Login\obj\Debug\Deliverable2_Login.ToyCategory.resources
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Desktop\D3\Deliverable3 Login\Deliverable2 Login\obj\Debug\Deliverable2 Login.csproj.GenerateResource.Cache
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Desktop\D3\Deliverable3 Login\Deliverable2 Login\obj\Debug\Deliverable2 Login.csproj.CoreCompileInputs.cache
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Desktop\D3\Deliverable3 Login\Deliverable2 Login\obj\Debug\Deliverable2 Login.exe
+\\homes.cms.waikato.ac.nz\people\ajo20\win\Desktop\D3\Deliverable3 Login\Deliverable2 Login\obj\Debug\Deliverable2 Login.pdb
